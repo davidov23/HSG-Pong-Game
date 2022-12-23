@@ -1,6 +1,8 @@
 How to run the Code:
 
 1. Download the files as zip
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/121311437/209384320-54a3cc33-911c-4ec0-99b8-ca6270a03a5b.png">
+
 
 2. Unpack the zip file
 
